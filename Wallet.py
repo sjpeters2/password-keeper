@@ -58,7 +58,6 @@ class Wallet:
     def removeSite(self, site):
         """Remove all entries for a given website by deleting dictionary entry
 
-
             params:
             site - string representing website name i.e. "www.google.com"
         """
